@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516476001122",
+    "project_id": "quick-ride-7df1e",
+    "storage_bucket": "quick-ride-7df1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516476001122:android:bcb2a9be68d2f3786bea3b",
+        "android_client_info": {
+          "package_name": "com.robbochinni.tam_drive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbSUHEn3HrCluBkYH0Wq0EGIsgmu46KV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
